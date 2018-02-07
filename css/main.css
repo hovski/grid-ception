@@ -26,3 +26,8 @@ body {
   display: block;
   width: 100%;
 }
+
+figure {
+  margin: 0;
+  padding: 0;
+}
